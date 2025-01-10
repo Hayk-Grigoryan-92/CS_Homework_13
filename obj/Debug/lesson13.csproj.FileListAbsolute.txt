@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\C#\Lesson13\lesson13\bin\Debug\lesson13.exe.config
+C:\Users\ASUS\Desktop\C#\Lesson13\lesson13\bin\Debug\lesson13.exe
+C:\Users\ASUS\Desktop\C#\Lesson13\lesson13\bin\Debug\lesson13.pdb
+C:\Users\ASUS\Desktop\C#\Lesson13\lesson13\obj\Debug\lesson13.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\Lesson13\lesson13\obj\Debug\lesson13.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\Lesson13\lesson13\obj\Debug\lesson13.exe
+C:\Users\ASUS\Desktop\C#\Lesson13\lesson13\obj\Debug\lesson13.pdb
